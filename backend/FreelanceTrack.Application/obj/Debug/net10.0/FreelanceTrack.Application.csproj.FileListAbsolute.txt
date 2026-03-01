@@ -1,0 +1,15 @@
+/Users/berkeonursunecli/Desktop/development/dotnetProject/FreelanceTracker/backend/FreelanceTrack.Application/bin/Debug/net10.0/FreelanceTrack.Application.deps.json
+/Users/berkeonursunecli/Desktop/development/dotnetProject/FreelanceTracker/backend/FreelanceTrack.Application/bin/Debug/net10.0/FreelanceTrack.Application.dll
+/Users/berkeonursunecli/Desktop/development/dotnetProject/FreelanceTracker/backend/FreelanceTrack.Application/bin/Debug/net10.0/FreelanceTrack.Application.pdb
+/Users/berkeonursunecli/Desktop/development/dotnetProject/FreelanceTracker/backend/FreelanceTrack.Application/bin/Debug/net10.0/FreelanceTrack.Domain.dll
+/Users/berkeonursunecli/Desktop/development/dotnetProject/FreelanceTracker/backend/FreelanceTrack.Application/bin/Debug/net10.0/FreelanceTrack.Domain.pdb
+/Users/berkeonursunecli/Desktop/development/dotnetProject/FreelanceTracker/backend/FreelanceTrack.Application/obj/Debug/net10.0/FreelanceTrack.Application.csproj.AssemblyReference.cache
+/Users/berkeonursunecli/Desktop/development/dotnetProject/FreelanceTracker/backend/FreelanceTrack.Application/obj/Debug/net10.0/FreelanceTrack.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berkeonursunecli/Desktop/development/dotnetProject/FreelanceTracker/backend/FreelanceTrack.Application/obj/Debug/net10.0/FreelanceTrack.Application.AssemblyInfoInputs.cache
+/Users/berkeonursunecli/Desktop/development/dotnetProject/FreelanceTracker/backend/FreelanceTrack.Application/obj/Debug/net10.0/FreelanceTrack.Application.AssemblyInfo.cs
+/Users/berkeonursunecli/Desktop/development/dotnetProject/FreelanceTracker/backend/FreelanceTrack.Application/obj/Debug/net10.0/FreelanceTrack.Application.csproj.CoreCompileInputs.cache
+/Users/berkeonursunecli/Desktop/development/dotnetProject/FreelanceTracker/backend/FreelanceTrack.Application/obj/Debug/net10.0/Freelanc.0772C3DA.Up2Date
+/Users/berkeonursunecli/Desktop/development/dotnetProject/FreelanceTracker/backend/FreelanceTrack.Application/obj/Debug/net10.0/FreelanceTrack.Application.dll
+/Users/berkeonursunecli/Desktop/development/dotnetProject/FreelanceTracker/backend/FreelanceTrack.Application/obj/Debug/net10.0/refint/FreelanceTrack.Application.dll
+/Users/berkeonursunecli/Desktop/development/dotnetProject/FreelanceTracker/backend/FreelanceTrack.Application/obj/Debug/net10.0/FreelanceTrack.Application.pdb
+/Users/berkeonursunecli/Desktop/development/dotnetProject/FreelanceTracker/backend/FreelanceTrack.Application/obj/Debug/net10.0/ref/FreelanceTrack.Application.dll

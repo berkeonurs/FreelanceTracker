@@ -1,0 +1,17 @@
+/Users/berkeonursunecli/Desktop/development/dotnetProject/FreelanceTracker/backend/FreelanceTrack.Infrastructure/bin/Debug/net10.0/FreelanceTrack.Infrastructure.deps.json
+/Users/berkeonursunecli/Desktop/development/dotnetProject/FreelanceTracker/backend/FreelanceTrack.Infrastructure/bin/Debug/net10.0/FreelanceTrack.Infrastructure.dll
+/Users/berkeonursunecli/Desktop/development/dotnetProject/FreelanceTracker/backend/FreelanceTrack.Infrastructure/bin/Debug/net10.0/FreelanceTrack.Infrastructure.pdb
+/Users/berkeonursunecli/Desktop/development/dotnetProject/FreelanceTracker/backend/FreelanceTrack.Infrastructure/bin/Debug/net10.0/FreelanceTrack.Application.dll
+/Users/berkeonursunecli/Desktop/development/dotnetProject/FreelanceTracker/backend/FreelanceTrack.Infrastructure/bin/Debug/net10.0/FreelanceTrack.Domain.dll
+/Users/berkeonursunecli/Desktop/development/dotnetProject/FreelanceTracker/backend/FreelanceTrack.Infrastructure/bin/Debug/net10.0/FreelanceTrack.Application.pdb
+/Users/berkeonursunecli/Desktop/development/dotnetProject/FreelanceTracker/backend/FreelanceTrack.Infrastructure/bin/Debug/net10.0/FreelanceTrack.Domain.pdb
+/Users/berkeonursunecli/Desktop/development/dotnetProject/FreelanceTracker/backend/FreelanceTrack.Infrastructure/obj/Debug/net10.0/FreelanceTrack.Infrastructure.csproj.AssemblyReference.cache
+/Users/berkeonursunecli/Desktop/development/dotnetProject/FreelanceTracker/backend/FreelanceTrack.Infrastructure/obj/Debug/net10.0/FreelanceTrack.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berkeonursunecli/Desktop/development/dotnetProject/FreelanceTracker/backend/FreelanceTrack.Infrastructure/obj/Debug/net10.0/FreelanceTrack.Infrastructure.AssemblyInfoInputs.cache
+/Users/berkeonursunecli/Desktop/development/dotnetProject/FreelanceTracker/backend/FreelanceTrack.Infrastructure/obj/Debug/net10.0/FreelanceTrack.Infrastructure.AssemblyInfo.cs
+/Users/berkeonursunecli/Desktop/development/dotnetProject/FreelanceTracker/backend/FreelanceTrack.Infrastructure/obj/Debug/net10.0/FreelanceTrack.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/berkeonursunecli/Desktop/development/dotnetProject/FreelanceTracker/backend/FreelanceTrack.Infrastructure/obj/Debug/net10.0/Freelanc.E900E7B5.Up2Date
+/Users/berkeonursunecli/Desktop/development/dotnetProject/FreelanceTracker/backend/FreelanceTrack.Infrastructure/obj/Debug/net10.0/FreelanceTrack.Infrastructure.dll
+/Users/berkeonursunecli/Desktop/development/dotnetProject/FreelanceTracker/backend/FreelanceTrack.Infrastructure/obj/Debug/net10.0/refint/FreelanceTrack.Infrastructure.dll
+/Users/berkeonursunecli/Desktop/development/dotnetProject/FreelanceTracker/backend/FreelanceTrack.Infrastructure/obj/Debug/net10.0/FreelanceTrack.Infrastructure.pdb
+/Users/berkeonursunecli/Desktop/development/dotnetProject/FreelanceTracker/backend/FreelanceTrack.Infrastructure/obj/Debug/net10.0/ref/FreelanceTrack.Infrastructure.dll

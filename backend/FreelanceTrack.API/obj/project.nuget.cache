@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8MeDy9zh3/8=",
+  "success": true,
+  "projectFilePath": "/Users/berkeonursunecli/Desktop/development/dotnetProject/FreelanceTracker/backend/FreelanceTrack.API/FreelanceTrack.API.csproj",
+  "expectedPackageFiles": [
+    "/Users/berkeonursunecli/.nuget/packages/microsoft.aspnetcore.openapi/10.0.3/microsoft.aspnetcore.openapi.10.0.3.nupkg.sha512",
+    "/Users/berkeonursunecli/.nuget/packages/microsoft.openapi/2.0.0/microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

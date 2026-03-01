@@ -1,0 +1,11 @@
+/Users/berkeonursunecli/Desktop/development/dotnetProject/FreelanceTracker/backend/FreelanceTrack.Domain/bin/Debug/net10.0/FreelanceTrack.Domain.deps.json
+/Users/berkeonursunecli/Desktop/development/dotnetProject/FreelanceTracker/backend/FreelanceTrack.Domain/bin/Debug/net10.0/FreelanceTrack.Domain.dll
+/Users/berkeonursunecli/Desktop/development/dotnetProject/FreelanceTracker/backend/FreelanceTrack.Domain/bin/Debug/net10.0/FreelanceTrack.Domain.pdb
+/Users/berkeonursunecli/Desktop/development/dotnetProject/FreelanceTracker/backend/FreelanceTrack.Domain/obj/Debug/net10.0/FreelanceTrack.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berkeonursunecli/Desktop/development/dotnetProject/FreelanceTracker/backend/FreelanceTrack.Domain/obj/Debug/net10.0/FreelanceTrack.Domain.AssemblyInfoInputs.cache
+/Users/berkeonursunecli/Desktop/development/dotnetProject/FreelanceTracker/backend/FreelanceTrack.Domain/obj/Debug/net10.0/FreelanceTrack.Domain.AssemblyInfo.cs
+/Users/berkeonursunecli/Desktop/development/dotnetProject/FreelanceTracker/backend/FreelanceTrack.Domain/obj/Debug/net10.0/FreelanceTrack.Domain.csproj.CoreCompileInputs.cache
+/Users/berkeonursunecli/Desktop/development/dotnetProject/FreelanceTracker/backend/FreelanceTrack.Domain/obj/Debug/net10.0/FreelanceTrack.Domain.dll
+/Users/berkeonursunecli/Desktop/development/dotnetProject/FreelanceTracker/backend/FreelanceTrack.Domain/obj/Debug/net10.0/refint/FreelanceTrack.Domain.dll
+/Users/berkeonursunecli/Desktop/development/dotnetProject/FreelanceTracker/backend/FreelanceTrack.Domain/obj/Debug/net10.0/FreelanceTrack.Domain.pdb
+/Users/berkeonursunecli/Desktop/development/dotnetProject/FreelanceTracker/backend/FreelanceTrack.Domain/obj/Debug/net10.0/ref/FreelanceTrack.Domain.dll

@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "FreelanceTrack.Application/1.0.0": {
+        "dependencies": {
+          "FreelanceTrack.Domain": "1.0.0"
+        },
+        "runtime": {
+          "FreelanceTrack.Application.dll": {}
+        }
+      },
+      "FreelanceTrack.Domain/1.0.0": {
+        "runtime": {
+          "FreelanceTrack.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FreelanceTrack.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FreelanceTrack.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
