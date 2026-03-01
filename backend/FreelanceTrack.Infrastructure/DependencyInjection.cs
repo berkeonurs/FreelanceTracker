@@ -26,6 +26,7 @@ public static class DependencyInjection
             options.Password.RequireNonAlphanumeric = false;
             options.Password.RequireUppercase = false;
             options.User.RequireUniqueEmail = true;
+            options.Password.RequireLowercase = false;
         })
         .AddEntityFrameworkStores<ApplicationDbContext>()
         .AddDefaultTokenProviders();
