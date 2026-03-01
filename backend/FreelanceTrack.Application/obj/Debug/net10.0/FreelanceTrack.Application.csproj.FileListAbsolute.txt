@@ -13,3 +13,4 @@
 /Users/berkeonursunecli/Desktop/development/dotnetProject/FreelanceTracker/backend/FreelanceTrack.Application/obj/Debug/net10.0/refint/FreelanceTrack.Application.dll
 /Users/berkeonursunecli/Desktop/development/dotnetProject/FreelanceTracker/backend/FreelanceTrack.Application/obj/Debug/net10.0/FreelanceTrack.Application.pdb
 /Users/berkeonursunecli/Desktop/development/dotnetProject/FreelanceTracker/backend/FreelanceTrack.Application/obj/Debug/net10.0/ref/FreelanceTrack.Application.dll
+/Users/berkeonursunecli/Desktop/development/dotnetProject/FreelanceTracker/backend/FreelanceTrack.Application/obj/Debug/net10.0/FreelanceTrack.Application.sourcelink.json

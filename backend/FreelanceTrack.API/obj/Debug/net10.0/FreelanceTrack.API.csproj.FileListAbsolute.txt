@@ -37,3 +37,4 @@
 /Users/berkeonursunecli/Desktop/development/dotnetProject/FreelanceTracker/backend/FreelanceTrack.API/obj/Debug/net10.0/FreelanceTrack.API.pdb
 /Users/berkeonursunecli/Desktop/development/dotnetProject/FreelanceTracker/backend/FreelanceTrack.API/obj/Debug/net10.0/FreelanceTrack.API.genruntimeconfig.cache
 /Users/berkeonursunecli/Desktop/development/dotnetProject/FreelanceTracker/backend/FreelanceTrack.API/obj/Debug/net10.0/ref/FreelanceTrack.API.dll
+/Users/berkeonursunecli/Desktop/development/dotnetProject/FreelanceTracker/backend/FreelanceTrack.API/obj/Debug/net10.0/FreelanceTrack.API.sourcelink.json
