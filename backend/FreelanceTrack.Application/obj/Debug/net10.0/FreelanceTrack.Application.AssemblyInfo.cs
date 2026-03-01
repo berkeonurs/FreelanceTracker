@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FreelanceTrack.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+75b42df8e1d59e5431d0114e47921b4321ea379d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b0c6ec0cf91bb5913fdca8bd28428698187dffd")]
 [assembly: System.Reflection.AssemblyProductAttribute("FreelanceTrack.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FreelanceTrack.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -16,3 +16,5 @@
 /Users/berkeonursunecli/Desktop/development/dotnetProject/FreelanceTracker/backend/FreelanceTrack.Infrastructure/obj/Debug/net10.0/FreelanceTrack.Infrastructure.pdb
 /Users/berkeonursunecli/Desktop/development/dotnetProject/FreelanceTracker/backend/FreelanceTrack.Infrastructure/obj/Debug/net10.0/ref/FreelanceTrack.Infrastructure.dll
 /Users/berkeonursunecli/Desktop/development/dotnetProject/FreelanceTracker/backend/FreelanceTrack.Infrastructure/obj/Debug/net10.0/FreelanceTrack.Infrastructure.sourcelink.json
+/Users/berkeonursunecli/Desktop/development/dotnetProject/FreelanceTracker/backend/FreelanceTrack.Infrastructure/bin/Debug/net10.0/FreelanceTrack.Infrastructure.runtimeconfig.json
+/Users/berkeonursunecli/Desktop/development/dotnetProject/FreelanceTracker/backend/FreelanceTrack.Infrastructure/obj/Debug/net10.0/FreelanceTrack.Infrastructure.genruntimeconfig.cache
