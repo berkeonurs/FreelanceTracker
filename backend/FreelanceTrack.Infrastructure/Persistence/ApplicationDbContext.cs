@@ -1,9 +1,11 @@
 using FreelanceTrack.Domain.Entities;
+using FreelanceTrack.Infrastructure.Identity;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
 namespace FreelanceTrack.Infrastructure.Persistence;
 
-public class ApplicationDbContext : DbContext
+public class ApplicationDbContext : IdentityDbContext<AppUser>
 {
     public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
         : base(options) { }
@@ -20,11 +22,11 @@ public class ApplicationDbContext : DbContext
 
         modelBuilder.Entity<Customer>(entity =>
         {
-           entity.HasKey(e => e.Id);
-           entity.Property(e => e.Name).IsRequired().HasMaxLength(200);
-           entity.Property(e => e.Email).IsRequired().HasMaxLength(200);
-           entity.Property(e => e.CompanyName).HasMaxLength(200);
-           entity.Property(e => e.Phone).HasMaxLength(50);
+            entity.HasKey(e => e.Id);
+            entity.Property(e => e.Name).IsRequired().HasMaxLength(200);
+            entity.Property(e => e.Email).IsRequired().HasMaxLength(200);
+            entity.Property(e => e.CompanyName).HasMaxLength(200);
+            entity.Property(e => e.Phone).HasMaxLength(50);
         });
 
         modelBuilder.Entity<Project>(entity =>
