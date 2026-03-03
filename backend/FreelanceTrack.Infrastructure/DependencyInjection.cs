@@ -1,6 +1,8 @@
 using System.Text;
 using FreelanceTrack.Infrastructure.Identity;
 using FreelanceTrack.Infrastructure.Persistence;
+using FreelanceTrack.Infrastructure.Repositories;
+using FreelanceTrack.Application.Interfaces;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
@@ -50,9 +52,9 @@ public static class DependencyInjection
                     Encoding.UTF8.GetBytes(configuration["Jwt:SecretKey"]!))
             };
         });
-
-        services.AddScoped<IJwtService, JwtService>();
         
+        services.AddScoped<IJwtService, JwtService>();
+        services.AddScoped<ICustomerRepository, CustomerRepository>();
         return services;
     }
 }
